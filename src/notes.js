@@ -22,5 +22,13 @@ const notes = [
     title: "Hardware vs. Software",
     content:
       "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
+  },
+  {
+    key: 5,
+    title: "One Piece",
+    content:
+      "It is a story of a boy with a power of stretching his body on his will and dreams of becoming the pirate king."
   }
 ];
+
+export default notes;
